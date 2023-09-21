@@ -1,0 +1,13 @@
+C:\Users\leviv\source\repos\RRCAGLibraryLeviVerity\Verity.Levi.Business\bin\Debug\Verity.Levi.Business.dll
+C:\Users\leviv\source\repos\RRCAGLibraryLeviVerity\Verity.Levi.Business\bin\Debug\Verity.Levi.Business.pdb
+C:\Users\leviv\source\repos\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.csproj.AssemblyReference.cache
+C:\Users\leviv\source\repos\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.csproj.CoreCompileInputs.cache
+C:\Users\leviv\source\repos\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.dll
+C:\Users\leviv\source\repos\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.pdb
+C:\Users\leviv\OneDrive\Documents\T1\RRCAGLibraryLeviVerity\Verity.Levi.Business\bin\Debug\Verity.Levi.Business.dll
+C:\Users\leviv\OneDrive\Documents\T1\RRCAGLibraryLeviVerity\Verity.Levi.Business\bin\Debug\Verity.Levi.Business.pdb
+C:\Users\leviv\OneDrive\Documents\T1\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.csproj.AssemblyReference.cache
+C:\Users\leviv\OneDrive\Documents\T1\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.csproj.CoreCompileInputs.cache
+C:\Users\leviv\OneDrive\Documents\T1\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.dll
+C:\Users\leviv\OneDrive\Documents\T1\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.pdb
+C:\Users\leviv\OneDrive\Documents\T1\RRCAGLibraryLeviVerity\Verity.Levi.Business\obj\Debug\Verity.Levi.Business.csproj.CopyComplete
